@@ -4,3 +4,9 @@
  
  
  https://hacktoberfest.digitalocean.com/?utm_source=local&utm_medium=email&utm_campaign=Hacktoberfest2017
+ 
+ 
+ ## Hacktoberfest Pull Census
+ 
+ https://github.com/AllenCompSci/Hacktoberfest
+ 
