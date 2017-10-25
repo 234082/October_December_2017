@@ -8,6 +8,7 @@
  
  ## Hacktoberfest Pull Census
  EVERY STUDENT MUST MAKE 4 PULL REQUESTS BY OCT 31
+ 
  EVERY STUDENT MUST MAKE THESE 2 PULL REQUESTS BY OCT 27
  
  https://github.com/AllenCompSci/Hacktoberfest
