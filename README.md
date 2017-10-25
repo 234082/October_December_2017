@@ -1,6 +1,6 @@
 ## Hacktoberfest 
  
- from Digital Oceans 
+ from ![Digital Oceans](https://hacktoberfest.digitalocean.com/)
  
  
  https://hacktoberfest.digitalocean.com/?utm_source=local&utm_medium=email&utm_campaign=Hacktoberfest2017
@@ -12,14 +12,14 @@
  
  https://github.com/AllenCompSci/Hacktoberfest
  
- # Edit Preview.html
+ # ![Edit Preview.html](https://github.com/AllenCompSci/Hacktoberfest/edit/master/Preview.html)
  ```
   find the last added person's link and add your own filling in the information as shown below
   <li><a href ="[link to your portfolio/github page]">[user name here]</a></li>
  ```
  https://github.com/AllenCompSci/Hacktoberfest/blob/master/Preview.html
  
-# Edit README.md
+# ![Edit README.md](https://github.com/AllenCompSci/Hacktoberfest/edit/master/README.md)
 ```
 find the last added person's link and add your own filling in the information as shown below
    - [user name here](link to your portfolio/github page)
